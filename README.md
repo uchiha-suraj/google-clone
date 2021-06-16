@@ -10,7 +10,7 @@
 ## Firebase link of this project:  
    ### See the project here >>>👉   https://fir-96c4e.web.app/
 
-## ⬛️ Key Features:
+## Key Features:
 
     🟢 Fully responsive clean UI.
     🟢 Google like search functionality.
