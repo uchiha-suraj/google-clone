@@ -7,7 +7,6 @@ import RoomIcon from '@material-ui/icons/Room';
 import MoreVertIcon from '@material-ui/icons/MoreVert';
 import React from 'react';
 import Search from '../components/Search';
-import response from '../response';
 import './SearchPage.css';
 import { useStateValue } from '../StateProvider';
 import useGoogleSearch from '../useGoogleSearch';
