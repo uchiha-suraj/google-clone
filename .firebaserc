@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "fir-96c4e"
-  }
+    "default": "voogle-clone"
+  },
+  "targets": {},
+  "etags": {}
 }

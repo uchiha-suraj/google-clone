@@ -2,13 +2,9 @@
 
 ![Demo](https://user-images.githubusercontent.com/46050946/121802689-419f9600-cc5b-11eb-9559-99ea1cdf72d4.png)
 
-### 1. Firebase link of this project
-### 2. [Key Features](#key-features) 
-### 3. [Technologies I've used](#technologies-ive-used)
+### 1. [Key Features](#key-features) 
+### 2. [Technologies I've used](#technologies-ive-used)
  
-
-## Firebase link of this project:  
-   ### See the project here >>>👉   https://fir-96c4e.web.app/
 
 ## Key Features:
 
@@ -30,8 +26,6 @@
     🔷  React-router => to navigate among views of various components.
 
     🔷  API => google custom search api.
-
-    🔷  Firebase => to deploy the app
     
     
   **[⬆ Back to Top](#google-clone)**
