@@ -4,7 +4,6 @@
 
 ### 1. [Key Features](#key-features) 
 ### 2. [Technologies I've used](#technologies-ive-used)
- 
 
 ## Key Features:
 
